@@ -1,5 +1,6 @@
 # python-my-movie-api
 Proyecto de ejemplo de un api con python usando FastAPI
+Proyecto tomado del curso de platzi
 
 # App Project
 
